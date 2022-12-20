@@ -1,7 +1,5 @@
 let rlSync = require('readline-sync');
 
-let num1 = rlSync.question('Enter the first number\n');
-let num2 = rlSync.question('Enter the second number\n');
-let sum = num1 + num2;
+let name = rlSync.question('What is your name? ');
 
-console.log(`The numbers ${num1} and ${num2} add up to ${sum}`);
+console.log(`Hello, ${name}!`);
