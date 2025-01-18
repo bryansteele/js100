@@ -1,0 +1,7 @@
+Method Name:	      Constructor:	            Method Type:
+substring	          String	                  Instance method
+create            	Object	                  Static method
+fromCharCode	      String	                  Static method
+slice	              Array, String	            Instance method
+toString	          String, Object, Array,    Instance method
+                    Number
